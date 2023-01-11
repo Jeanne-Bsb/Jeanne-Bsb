@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **about adulthood**
 
-- 👯 I’m looking to collaborate on **the futur**
+- 👯 I’m looking to collaborate **with myself** (it's not easy)
 
 - 🤝 I’m looking for help with **dishes**
 
@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **everythings you want except the meaning of life, I don't share my secrets easily**
 
-- 📫 How to reach me **by carrier pigeon**
+- 📫 How to reach me : **by carrier pigeon**
 
-- ⚡ Fun fact **cuncumber is good for memory**
+- ⚡ Fun fact : **cuncumber is good for memory**
 
 - 🧀
 
