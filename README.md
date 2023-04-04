@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeanne</h1>
-<h3 align="center">A french and lost developper</h3>
+<h3 align="center">A front developper</h3>
 
-- 🔭 I’m currently working on **life**
+- 🔭 I’m currently working on **finding an Intership**
 
-- 🌱 I’m currently learning **about adulthood**
-
-- 👯 I’m looking to collaborate **with myself** (it's not easy)
-
-- 🤝 I’m looking for help with **dishes**
-
-- 👨‍💻 All of my projects are available at [a website who doesn't exist (yet)](a website who doesn't exist (yet))
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **everythings you want except the meaning of life, I don't share my secrets easily**
 
-- 📫 How to reach me : **by carrier pigeon**
+- 📫 How to reach me : **jeannette.besombes@gmail.com**
 
 - ⚡ Fun fact : **cuncumber is good for memory**
 
