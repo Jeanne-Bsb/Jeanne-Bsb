@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeanne</h1>
 <h3 align="center">A front developper</h3>
 
-- 🔭 I’m currently working on **finding an Intership**
+- 🔭 I’m currently working on **my Intership**
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **everythings you want except the meaning of life, I don't share my secrets easily**
+- 💬 Ask me about **everythings you want except the meaning of life, I don't share my secrets easily** (42)
 
-- 📫 How to reach me : **jeannette.besombes@gmail.com**
+- 📫 How to reach me : **jeanne.besombes.pro@gmail.com**
 
 - ⚡ Fun fact : **cuncumber is good for memory**
 
